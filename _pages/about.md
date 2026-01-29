@@ -28,6 +28,15 @@ latest_posts:
 
 I’m Owen Hoffman, an undergraduate at Swarthmore College studying Computer Science and Engineering. My research has focused on human-centered safety in HCI, including work in the Collective Resilience Lab on LLM-based interventions to help users recognize and respond to online scams (CHI ’26). I’m interested in bridging human-centered safety from my HCI research into embodied autonomy, with a focus on perception-conditioned decision making for robots operating around people.
 
+**Interests:** Human–robot interaction, safe autonomy, perception-conditioned decision making, learning-based control, and human-centered evaluation.
+
+**Currently:** Research Assistant in Swarthmore’s Collective Resilience Lab (Prof. Sukrit Venkatagiri); building and evaluating safety-focused LLM systems.
+
+**Highlights:**
+- First-author CHI ’26 paper on LLM-based scam prevention education
+- Robotics experience in perception + navigation + control (TurtleBot2)
+- Engineering + CS background with coursework in robotics, CV, ML, and DSP
+
 <!--
 Hi, I am Owen Hoffman. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
