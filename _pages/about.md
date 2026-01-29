@@ -7,7 +7,7 @@ subtitle: <a href='https://www.swarthmore.edu/'>Swarthmore College</a>. 60202 Da
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: True # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>500 College Ave</p>
     <p>Swarthmore, PA 19081</p>
