@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    # <p>555 your office number</p>
     <p>500 College Ave</p>
     <p>Swarthmore, PA 19081</p>
 
