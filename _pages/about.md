@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.swarthmore.edu/'>Swarthmore College</a>. 60202 Davie, Chapel Hill, NC. owenhoff01@gmail.com.
+subtitle: <a href='https://www.swarthmore.edu/'>Swarthmore College</a>. Chapel Hill, NC.
 
 profile:
   align: right

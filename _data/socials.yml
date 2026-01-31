@@ -7,7 +7,7 @@ email: owenhoff01@gmail.com
 linkedin_username: # your LinkedIn username (uncomment and add your username)
 scholar_userid: # your Google Scholar ID (uncomment and add your ID)
 # twitter_username: # your Twitter handle (uncomment and add your handle)
-rss_icon: false # comment this line to hide the RSS icon
+#rss_icon: false # comment this line to hide the RSS icon
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
