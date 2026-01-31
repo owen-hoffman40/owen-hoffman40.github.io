@@ -21,7 +21,7 @@ ninja.data = [{
           description: "Download my CV or view it below.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/assets/pdf/example_pdf2.pdf";
           },
         },{id: "post-a-post-with-plotly-js",
         
