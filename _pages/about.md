@@ -14,6 +14,17 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
+interests_section:
+  title: "Research Interests"
+  content: |
+    Add your interests content here using Markdown:
+    
+    - **Human-Robot Interaction**: Focus on safe and intuitive collaboration
+    - **Perception Systems**: Computer vision and sensor fusion for robotics
+    - **Decision Making**: Learning-based control and planning algorithms
+    
+    You can include multiple paragraphs, lists, and formatting.
+
 announcements:
   enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
@@ -25,7 +36,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m Owen Hoffman, an undergraduate at Swarthmore College studying Computer Science and Engineering. My research has focused on human-centered safety in HCI, including work in the Collective Resilience Lab on LLM-based interventions to help users recognize and respond to online scams (CHI ’26). I’m interested in bridging human-centered safety from my HCI research into embodied autonomy, with a focus on perception-conditioned decision making for robots operating around people.
+Hi, I am senior at Swarthmore College studying Computer Science and Engineering. My research is focused on human-centered safety in HCI, including work in the Collective Resilience Lab on LLM-based interventions to help users recognize and respond to online scams (CHI ’26). I’m interested in bridging human-centered safety from my HCI research into embodied autonomy, with a focus on perception-conditioned decision making for robots operating around people.
 
 **Interests:** Human–robot interaction, safe autonomy, perception-conditioned decision making, learning-based control, and human-centered evaluation.
 
