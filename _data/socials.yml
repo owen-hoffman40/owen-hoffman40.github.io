@@ -2,6 +2,7 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 #cv_pdf: /assets/pdf/owen_hoffman_CV.pdf
+social: true
 email: owenhoff01@gmail.com
 #github_username: owen-hoffman40
 linkedin_username: owenhoffman40/ # your LinkedIn username (uncomment and add your username)
