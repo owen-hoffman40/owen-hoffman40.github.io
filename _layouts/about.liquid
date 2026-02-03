@@ -64,6 +64,14 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Custom projects section -->
+    {% if page.projects_section %}
+      <h2>{{ page.projects_section.title }}</h2>
+      <div class="projects-content">
+        {{ page.projects_section.content }}
+      </div>
+    {% endif %}
+
     <!-- Custom interests section -->
     {% if page.interests_section %}
       <h2>{{ page.interests_section.title }}</h2>

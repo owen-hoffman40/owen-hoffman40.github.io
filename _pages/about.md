@@ -14,12 +14,20 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
+projects_section:
+  title: "Projects Portolfio"
+  content: |
+    - **ScamPilot (CHI ’26):** LLM-based scam-prevention education system (paper + arXiv).
+    - **TurtleBot autonomy:** perception + control pipelines for navigation tasks (ROS).
+    - **ML systems projects:** autoencoder/VAE experiments + audio classification (MATLAB).
+    **[Full project portfolio (demos + writeups)](https://owenhoffmanprojects.carrd.co/#)      
+
 interests_section:
   title: "Personal Interests"
   content: |
-    -Sports: I love playing lacrosse and watching UNC Lacrosse
-    -Food: I am always interested in trying new resturants
-    -Skiing: I grew up ski racing and I love any chance to ski
+    - **Lacrosse**: I have started for [Swarthmore Mens Lacrosse](https://swarthmoreathletics.com/sports/mens-lacrosse/roster/owen--hoffman/13453) and love watching [UNC Lacrosse](https://goheels.com/sports/mens-lacrosse)
+    - **Food**: I am always interested in trying new restaurants
+    - **Skiing**: I grew up ski racing and I love any chance to ski
 
 announcements:
   enabled: false # includes a list of news items
