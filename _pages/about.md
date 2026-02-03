@@ -15,15 +15,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 interests_section:
-  title: "Research Interests"
+  title: "Personal Interests"
   content: |
-    Add your interests content here using Markdown:
-    
-    - **Human-Robot Interaction**: Focus on safe and intuitive collaboration
-    - **Perception Systems**: Computer vision and sensor fusion for robotics
-    - **Decision Making**: Learning-based control and planning algorithms
-    
-    You can include multiple paragraphs, lists, and formatting.
+    -Sports: I love playing lacrosse and watching UNC Lacrosse
+    -Food: I am always interested in trying new resturants
+    -Skiing: I grew up ski racing and I love any chance to ski
 
 announcements:
   enabled: false # includes a list of news items
