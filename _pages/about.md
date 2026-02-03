@@ -9,13 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="mailto:owenhoff01@gmail.com">owenhoff01@gmail.com</a></p>
-    <p><a href="/assets/pdf/Owen_Hoffman_CV.pdf">CV (PDF)</a></p>
-    <p><a href="https://github.com/owen-hoffman40">GitHub</a></p>
-    <p><a href="https://www.linkedin.com/in/owenhoffman40">LinkedIn</a></p>
+    <p></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
