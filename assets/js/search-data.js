@@ -458,6 +458,13 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/owen_hoffman_CV.pdf", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -465,11 +472,18 @@ ninja.data = [{
           window.open("mailto:%6F%77%65%6E%68%6F%66%66%30%31@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/owen-hoffman40", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/owenhoffman40/", "_blank");
+          window.open("https://www.linkedin.com/in/owenhoffman40", "_blank");
         },
       },{
       id: 'light-theme',
