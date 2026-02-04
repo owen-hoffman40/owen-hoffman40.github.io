@@ -8,26 +8,24 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 projects_section:
-  title: "Projects Portolfio"
+  title: "Projects"
   content: |
-    - **ScamPilot (CHI ’26):** LLM-based scam-prevention education system (paper + arXiv).
+    - **ScamPilot (CHI '26):** LLM-based scam-prevention education system (paper + arXiv).
     - **TurtleBot autonomy:** perception + control pipelines for navigation tasks (ROS).
     - **ML systems projects:** autoencoder/VAE experiments + audio classification (MATLAB).
-    **[Full project portfolio (demos + writeups)](https://owenhoffmanprojects.carrd.co/#)      
+    - **[Full project portfolio (demos + writeups)]**(https://owenhoffmanprojects.carrd.co/#)**
 
 interests_section:
   title: "Personal Interests"
   content: |
-    - **Lacrosse**: I have started for [Swarthmore Mens Lacrosse](https://swarthmoreathletics.com/sports/mens-lacrosse/roster/owen--hoffman/13453) and love watching [UNC Lacrosse](https://goheels.com/sports/mens-lacrosse)
-    - **Food**: I am always interested in trying new restaurants
-    - **Skiing**: I grew up ski racing and I love any chance to ski
+    - **Lacrosse**: I start for [Swarthmore Men's Lacrosse](https://swarthmoreathletics.com/sports/mens-lacrosse/roster/owen--hoffman/13453), and I’m a longtime fan of [UNC Men's Lacrosse.](https://goheels.com/sports/mens-lacrosse)
+    - **Food**: I’m always on the hunt for a great new restaurant, send recommendations.
+    - **Skiing**: I grew up ski racing, so I’m happiest when I can get back on the slopes.
 
 announcements:
   enabled: false # includes a list of news items
@@ -44,7 +42,7 @@ Hi, I am senior at Swarthmore College studying Computer Science and Engineering.
 
 **Interests:** Human–robot interaction, safe autonomy, perception-conditioned decision making, learning-based control, and human-centered evaluation.
 
-**Currently:** Research Assistant in Swarthmore’s Collective Resilience Lab (Prof. Sukrit Venkatagiri); building and evaluating safety-focused LLM systems.
+**Currently:** Research Assistant in Swarthmore’s Collective Resilience Lab ([Prof. Sukrit Venkatagiri](https://www.sukritv.com/)); building and evaluating safety-focused LLM systems.
 
 **Highlights:**
 - First-author CHI ’26 paper on LLM-based scam prevention education
