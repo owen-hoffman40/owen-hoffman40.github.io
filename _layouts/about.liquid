@@ -68,7 +68,7 @@ layout: default
     {% if page.projects_section %}
       <h2>{{ page.projects_section.title }}</h2>
       <div class="projects-content">
-        {{ page.projects_section.content }}
+        {{ page.projects_section.content | markdownify }}
       </div>
     {% endif %}
 
@@ -76,7 +76,7 @@ layout: default
     {% if page.interests_section %}
       <h2>{{ page.interests_section.title }}</h2>
       <div class="interests-content">
-        {{ page.interests_section.content }}
+        {{ page.interests_section.content | markdownify }}
       </div>
     {% endif %}
 
