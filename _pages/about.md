@@ -18,7 +18,7 @@ projects_section:
     - **ScamPilot (CHI '26):** LLM-based scam-prevention education system (paper + arXiv).
     - **TurtleBot autonomy:** perception + control pipelines for navigation tasks (ROS).
     - **ML systems projects:** autoencoder/VAE experiments + audio classification (MATLAB).
-    - **[Full project portfolio (demos + writeups)]**(https://owenhoffmanprojects.carrd.co/#)**
+    - [**Full project portfolio (demos + writeups)**](https://owenhoffmanprojects.carrd.co/#)
 
 interests_section:
   title: "Personal Interests"
