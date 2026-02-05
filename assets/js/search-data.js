@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "This is a complete list of my publications.",
+          description: "Research publications focused on human-centered AI safety and conversational agents.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
