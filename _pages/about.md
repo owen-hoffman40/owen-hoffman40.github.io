@@ -38,16 +38,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am senior at Swarthmore College studying Computer Science and Engineering. My research is focused on human-centered safety in HCI, including work in the Collective Resilience Lab on LLM-based interventions to help users recognize and respond to online scams (CHI ’26). I’m interested in bridging human-centered safety from my HCI research into embodied autonomy, with a focus on perception-conditioned decision making for robots operating around people.
+I am a senior at Swarthmore College completing dual degrees in Computer Science and Engineering, with research focused on human-centered safety in artificial intelligence systems. In the Collective Resilience Lab, I investigate LLM-based interventions for online safety, resulting in a first-author publication at CHI '26 on conversational agents for scam prevention education. My research objective is to bridge insights from human-centered HCI safety into embodied autonomous systems, particularly focusing on perception-conditioned decision making for robots that operate alongside people in unstructured environments.
 
-**Interests:** Human–robot interaction, safe autonomy, perception-conditioned decision making, learning-based control, and human-centered evaluation.
+**Research Interests:** Human–robot interaction, safe autonomy, perception-conditioned decision making, learning-based control, and human-centered evaluation methodologies for embodied AI systems.
 
-**Currently:** Research Assistant in Swarthmore’s Collective Resilience Lab ([Prof. Sukrit Venkatagiri](https://www.sukritv.com/)); building and evaluating safety-focused LLM systems.
+**Current Research:** Research Assistant, Collective Resilience Lab ([Prof. Sukrit Venkatagiri](https://www.sukritv.com/)); developing and evaluating safety-focused LLM systems with applications to conversational user interfaces and online harm prevention.
 
-**Highlights:**
-- First-author CHI ’26 paper on LLM-based scam prevention education
-- Robotics experience in perception + navigation + control (TurtleBot2)
-- Engineering + CS background with coursework in robotics, CV, ML, and DSP
+**Technical Background:**
+- First-author publication at CHI '26 on LLM-based conversational agents for scam prevention
+- Robotics systems experience: perception pipelines, autonomous navigation, and feedback control (TurtleBot2)
+- Coursework foundation in robotics, computer vision, machine learning, control systems, and digital signal processing
 
 <!--
 Hi, I am Owen Hoffman. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

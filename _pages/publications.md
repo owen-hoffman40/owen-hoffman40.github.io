@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: This is a complete list of my publications.
+description: Research publications focused on human-centered AI safety and conversational agents.
 nav: true
 nav_order: 2
 ---
