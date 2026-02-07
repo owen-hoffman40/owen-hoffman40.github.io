@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://owen-hoffman40.github.io/sitemap.xml
+Sitemap: https://www.owenmhoffman.com/sitemap.xml
