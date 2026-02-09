@@ -1,7 +1,11 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-09'
 papers:
-  CSfxU7EAAAAJ:u5HHmVD_uO8C:
+  CSfxU7EAAAAJ:u-x6o8ySG0sC:
     citations: 0
+    title: 'ScamPilot: Simulating Conversations with LLMs to Protect Against Online Scams'
+    year: '2026'
+  CSfxU7EAAAAJ:u5HHmVD_uO8C:
+    citations: 1
     title: Promoting Online Safety by Simulating Unsafe Conversations with LLMs
     year: '2025'
