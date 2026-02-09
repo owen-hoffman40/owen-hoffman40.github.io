@@ -3,9 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://www.swarthmore.edu/'>Swarthmore College</a>. Swarthmore, PA.
----
-
-*Also published as **Owen Hoffman**.*
+also_known_as: Owen Hoffman
 
 profile:
   align: right
@@ -40,6 +38,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<!-- Also published as Owen Hoffman -->
 
 I am a senior at Swarthmore College completing dual degrees in Computer Science and Engineering, with research focused on human-centered safety in artificial intelligence systems. In the Collective Resilience Lab, I investigate LLM-based interventions for online safety, resulting in a first-author publication at CHI '26 on conversational agents for scam prevention education. My research objective is to bridge insights from human-centered HCI safety into embodied autonomous systems, particularly focusing on perception-conditioned decision making for robots that operate alongside people in unstructured environments.
 
