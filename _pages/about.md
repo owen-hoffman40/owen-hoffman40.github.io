@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://www.swarthmore.edu/'>Swarthmore College</a>. Swarthmore, PA.
- ---
+---
 
 *Also published as **Owen Hoffman**.*
 
