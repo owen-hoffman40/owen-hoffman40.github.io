@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Owen M. Hoffman (Owen Hoffman) # the website title (if blank, full name will be used instead)
+title: Owen Hoffman # the website title (if blank, full name will be used instead)
 first_name: Owen
 middle_name: M.
 last_name: Hoffman
@@ -270,7 +270,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Hoffman]
-  first_name: [Owen, O., Owen M., O. M.]
+  first_name: [Owen, O., "Owen M.", "O. M."]
 
   style: apa
   locale: en

@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://www.swarthmore.edu/'>Swarthmore College</a>. Swarthmore, PA.
-also_known_as: Owen Hoffman
+also_known_as: Owen M. Hoffman
 
 profile:
   align: right
