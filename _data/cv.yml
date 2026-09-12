@@ -85,7 +85,7 @@ cv:
         location: College Park, MD
         url: https://www.cs.umd.edu/
         area: Computer Science
-        studyType: Ph.D.
+        studyType: Ph.D. in Computer Science
         start_date: 2026
         end_date: Present
         highlights:
@@ -105,12 +105,12 @@ cv:
       - title: University of Maryland Dean's Fellowship
         date: 2026
         awarder: University of Maryland
-        summary: Graduate fellowship supporting doctoral study in Computer Science.
+        summary: Graduate fellowship providing supplemental support for the standard doctoral stipend.
 
       - title: Swarthmore College Summer Research Fellowship
         date: 2025
         awarder: Swarthmore College
-        summary: Supported full-time undergraduate research in Human-Computer Interaction.
+        summary: Supported full-time summer undergraduate research in Human-Computer Interaction.
 
       - title: Tau Beta Pi
         date: 2026
