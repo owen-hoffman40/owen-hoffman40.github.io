@@ -1,17 +1,13 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: Research publications focused on human-centered AI safety and conversational agents.
+title: Publications
+description: Peer-reviewed and workshop publications in human-centered AI and online safety.
 nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
+My published work began with human-centered AI safety: designing systems that help people recognize and respond to online harms. This foundation now informs my research on safe, human-aware embodied intelligence.
 
 <div class="publications">
 
