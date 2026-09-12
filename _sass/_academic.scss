@@ -551,6 +551,19 @@ a:focus-visible, button:focus-visible {
   font-family: Georgia, "Times New Roman", serif;
 }
 
+/* Keep long contact details, especially the website URL, inside the CV card. */
+.cv .table-cv {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.cv .table-cv td:last-child,
+.cv .table-cv td:last-child a {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
 footer.sticky-bottom {
   margin-top: 2rem !important;
   border-top: 1px solid var(--global-divider-color);
